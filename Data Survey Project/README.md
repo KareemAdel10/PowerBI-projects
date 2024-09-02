@@ -1,6 +1,6 @@
-#Power BI Project Documentation: Data Roles Survey Analysis
+# Power BI Project Documentation: Data Roles Survey Analysis
 ------
-##Project Overview
+## Project Overview
 - This project analyzes the "Data Roles Survey" dataset, collected by the YouTube channel "Alex The Analyst." The goal is to clean, transform, and analyze the data to gain insights into various data roles.
 
 ## Dataset Description
